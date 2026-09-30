@@ -1,12 +1,14 @@
-# MediTrack: Smart Hospital Supply & Expiry Monitor 🏥💻
+Medi Track: Smart Hospital Supply & Expiry Monitor
 
-MediTrack is an advanced desktop-native healthcare logistics control dashboard built using **100% pure Python**. The project tracks critical medical supplies, monitors volume safety buffers, and handles real-time expiry window alerts to prevent hospital resource waste.
+About the project (overview) Meditrack is a desktop-native healthcare logistics control dashboard entirely developed in Python, used for tracking essential medical commodities, volume safety buffers, and managing real-time expiry window alerts to ensure no hospital resources go to waste.
 
-## 🌟 Key Functional Features
-- **Native GUI Architecture:** Modern desktop interface window built without mixing HTML or web browser wrappers.
-- **Dynamic KPI Panels:** Live-updating indicators counting total active inventory, near-expiry risks, and stock items crossing reorder lines.
-- **Interactive Ledger Board:** Sortable multi-column table displaying product details, storage room locations, and specific countdown trackers.
-- **Data Modification Engine:** Built-in validation entry panels that allow adding or removing records securely on-the-fly.
+Key Functional Features
+
+Indigenous GUI Architecture: Interface window for desk-top that is contemporary and that is designed solely for the desktop, developed without HTML or web browser wrappers.
+Real-time KPI Panels Live real-time counters showing the number of total live inventory, near expiry risk, and Stock level item or line crosses reorder point.
+Interactive Ledger Board: Sortable multi-column table that shows product by product detail, storage room locations, and individual countdown trackers.
+Data Modification Engine: Validation entry panels that you can use to add or delete a record.
+
 
 ## 🛠️ Project File Architecture
 ```text
@@ -20,11 +22,11 @@ meditrack/
 └── README.md          # Technical documentation and launch setup guide
 ```
 
-## 🚀 Execution Instructions
-This project has zero third-party package dependencies, as it runs entirely on Python’s native environment standard libraries!
 
-1. Clone your project repository or navigate to your project directory root.
-2. Launch the desktop system directly from your terminal console:
-   ```bash
-   python app.py
+Execution Instructions
+
+This project has zero third-party package dependencies, since it relies 100% on the standard libraries in the Python's built-in environment!
+
+Clone the project repository for your organization or go to the root directory of your project.
+•Boot desktop straight from your terminal console•
    ```
